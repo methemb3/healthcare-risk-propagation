@@ -17,8 +17,7 @@ shared health risk factors such as:
 Risk propagates across the network until the system reaches equilibrium.
 
 Author: Methembe Moses Ncube
-Purpose: Risk propagation prototype inspired by Mario Schlosser's
-         Healthcare Risk Equilibrium Theorem for healthcare networks.
+Purpose: Risk propagation prototype.
 """
 
 import numpy as np
