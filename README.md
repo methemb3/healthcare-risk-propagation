@@ -1,8 +1,7 @@
 # Healthcare Risk Propagation
 
 A prototype implementation of iterative risk propagation across a 
-patient network using eigenvector methods, inspired by Mario Schlosser's 
-Healthcare Risk Equilibrium Theorem.
+patient network using eigenvector methods.
 
 ## The Problem
 Traditional healthcare risk models score patients in isolation. This 
@@ -35,4 +34,4 @@ python risk_propagation.py
 
 ## Author
 Methembe Moses Ncube  
-Submitted as part of the Mario Schlosser Scholarship application.
+
